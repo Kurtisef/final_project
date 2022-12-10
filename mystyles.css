@@ -1,0 +1,38 @@
+
+
+
+body{
+    background-color: rgba(255, 0, 0, 0.757);
+    font-family: 'Libre Baskerville', serif;
+}
+
+#list {
+    background-color: blue;
+    color: white;
+}
+
+.edge {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#highlights {
+    text-decoration: underline dashed;
+}
+
+.headers {
+    text-decoration: underline;
+}
+
+#Playoffs {
+    background-color: white;
+}
+
+#Plays {
+    background-color: navy;
+    color: white;
+}
